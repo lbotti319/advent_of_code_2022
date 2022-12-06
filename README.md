@@ -1,1 +1,3 @@
-# advent_of_code_2022
+# Advent of Code 2022
+
+Its like chocolates, but for your brain
